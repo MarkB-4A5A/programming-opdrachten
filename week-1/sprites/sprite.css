@@ -1,0 +1,25 @@
+
+*.mario-kart-character {
+    display: block;
+    background-image: url('sprite.png');
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    position: absolute;
+}
+
+*.toad {
+    padding: 28px;
+    background-position: 47% 13%;
+}
+
+*.wario {
+    padding: 38px 21px 33px 34px;
+    background-position: 68% 10%;
+    left: 20%;
+}
+
+*.bowser {
+    left: 40%;
+    padding: 49px;
+    background-position: 89% 51%;
+}
